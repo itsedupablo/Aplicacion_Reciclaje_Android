@@ -1,1 +1,1 @@
-# Aplicacion_Reciclaje_Android
+# Entrega 1 Programación Eventos: Aplicacion Reciclaje Android
